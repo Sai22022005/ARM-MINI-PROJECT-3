@@ -63,4 +63,4 @@ The AI Secure Login Authentication System is an embedded systems project develop
 This project demonstrates how the LPC2129 microcontroller, EM-18 RFID Reader, and 4x4 Keypad Matrix can be integrated to build a secure authentication system. It provides practical experience in RFID interfacing, keypad communication, UART, and embedded security applications.
 
 ## Author
-**Edula Saikumar**
+**Edula Sai kumar Reddy**
